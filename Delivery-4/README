@@ -1,0 +1,8 @@
+In order to get the data into your notebook, you must do the following.
+1. go to https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/
+2. Save the features file.
+3. Save the four csv files of 2.5 million records
+4. Compress the files into a tar.gz file (I used 7Zip).
+The resulting file should be 117MB.
+The data_load notebook is only for loading data if you want to do something yourself.
+Otherwise you can load the data into my notebook if you want to replicate what I have done.
