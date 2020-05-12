@@ -4,5 +4,5 @@ In order to get the data into your notebook, you must do the following.
 3. Save the four csv files of 2.5 million records
 4. Compress the four csv files into a tar.gz file (I used 7Zip).
 The resulting file should be 117MB.
-The data_load notebook is only for loading data if you want to do something yourself.
-Otherwise you can load the data into my notebook if you want to replicate what I have done.
+The _data_load notebook is only for loading data if you want to do something yourself.
+Otherwise you can load the data into the _neural_net notebook if you want to replicate what I have done.
